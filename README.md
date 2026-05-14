@@ -48,6 +48,6 @@ Enter a URL, hit **Start**, and watch it crawl in real time. When it's done you 
 | Packaging | PyInstaller + electron-builder |
 | CI/CD | GitHub Actions |
 
-## 📄 License
+## 📄 Contact ME
 
-MIT — see [LICENSE](LICENSE) for details.
+Visit my profile and get in touch for pricing and custom requirements
