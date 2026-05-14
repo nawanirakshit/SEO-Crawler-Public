@@ -15,7 +15,7 @@ Enter a URL, hit **Start**, and watch it crawl in real time. When it's done you 
 
 ## 🎬 Demo
 
-> *(Add a GIF or screenshot here)*
+> https://github.com/nawanirakshit/SEO-Crawler-Public/blob/main/demo.mov
 
 ---
 
